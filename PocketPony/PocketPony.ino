@@ -14,8 +14,9 @@ If you pet her, she squints quite a bit.
 #include "rus7x13.h"
 #include "rus6x12.h"
 
-U8GLIB_ST7920_128X64_1X u8g(40, 42, 44); // Строка объявления экрана. 
+U8GLIB_ST7920_128X64_1X u8g(40, 42, 44); // Screen declaration string. 
 
+// Piezo declaration
 #define soundPIN 35
 
 #define GOLODOVKA 2 
