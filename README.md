@@ -5,3 +5,8 @@ Yes, if you don’t feed a pony for a long time, then she will prefer to find a 
 If you tease her with a muffin for a long time, she will begin to suspect something...
 If you pet her, she squints quite a bit.
 
+![pic1](https://raw.githubusercontent.com/Ralphis13/PocketPony/main/Photo/1.jpg)
+
+![pic2](https://raw.githubusercontent.com/Ralphis13/PocketPony/main/Photo/2.jpg)
+
+![pic3](https://raw.githubusercontent.com/Ralphis13/PocketPony/main/Photo/3.jpg)
